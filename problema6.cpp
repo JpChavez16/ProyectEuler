@@ -1,3 +1,4 @@
+//suma cuadrada y suma de cuadrados
 #include <iostream>
 using namespace std;
 
