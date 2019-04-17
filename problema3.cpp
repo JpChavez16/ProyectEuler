@@ -1,3 +1,4 @@
+//factor primo
 #include <iostream>
 using namespace std;
 
